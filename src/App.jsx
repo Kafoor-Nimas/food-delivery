@@ -22,6 +22,7 @@ const App = () => {
       </div>
       <Footer />
     </>
+    //completed front-end 
   );
 };
 
