@@ -11,6 +11,7 @@ const Home = () => {
       <Header />
       <ExpoloreMenu category={category} setCategory={setCategory} />
       <FoodDisplay category={category} />
+      
     </div>
   );
 };
